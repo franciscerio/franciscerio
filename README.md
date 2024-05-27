@@ -1,6 +1,15 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2056%20mins-blue)
 
+I'm Francis, an Android developer.
+
+🔭 I’m currently working for [Appetiser Apps](http://appetiser.com.au)
+
+📫 How to reach me: fran.cerio1990@gmail.com
+
+👀 You can check more about me at [Linkedin](https://www.linkedin.com/in/francerio/) and [Stack Overflow](https://stackoverflow.com/users/1614267/fran-ceriu)
+
+
+
+<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 📦 37.8 kB Used in GitHub's Storage 
