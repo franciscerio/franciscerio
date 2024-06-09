@@ -10,13 +10,11 @@ I'm Francis, an Android developer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 186.6 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,5 +63,5 @@ Mac                      27 hrs 25 mins      ███████████�
 ```
 
 
- Last Updated on 09/06/2024 14:06:03 UTC
+ Last Updated on 09/06/2024 16:07:22 UTC
 <!--END_SECTION:waka-->
