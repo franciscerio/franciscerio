@@ -14,8 +14,6 @@ I'm Francis, an Android developer.
 
 > 📦 213.1 kB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -63,5 +61,5 @@ Mac                      37 hrs 51 mins      ███████████�
 ```
 
 
- Last Updated on 29/09/2024 20:07:53 UTC
+ Last Updated on 29/09/2024 22:06:48 UTC
 <!--END_SECTION:waka-->
