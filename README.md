@@ -10,6 +10,8 @@ I'm Francis, an Android developer.
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2058%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 221.5 kB Used in GitHub's Storage 
@@ -64,6 +66,30 @@ VS Code                  3 mins              ░░░░░░░░░░░�
 Mac                      42 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:48:20 UTC
+```text
+⏱ AI Coding Time: 41 hrs 44 mins (97.65%)
+
+✍️ 19,253 lines written by AI, 166 lines written by hand (99.15% AI-written)
+
+🔤 898,395,533 Input Tokens, 5,405,544 Output Tokens
+
+💵 $4611.83 Estimated AI Cost This Week
+
+🧠 71 AI Sessions, 609 AI Prompts
+
+Opus                     20,168 lines        █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.15% of written lines came from AI
+📚 Verbose Prompter — average 2,017 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.21% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 16:06:44 UTC
 <!--END_SECTION:waka-->
