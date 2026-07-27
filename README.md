@@ -10,7 +10,7 @@ I'm Francis, an Android developer.
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,45 +51,46 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   21 hrs 42 mins      █████████████░░░░░░░░░░░░   50.79 % 
-Markdown                 14 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   33.69 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-XML                      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Bru                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Kotlin                   30 hrs 17 mins      ██████████████░░░░░░░░░░░   56.24 % 
+Markdown                 17 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Java Properties          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+XML                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Claude Code              37 hrs 33 mins      ██████████████████████░░░   87.87 % 
-Android Studio           5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              47 hrs 2 mins       ██████████████████████░░░   87.37 % 
+Android Studio           6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      42 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      53 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 44 mins (97.65%)
+⏱ AI Coding Time: 52 hrs 22 mins (97.27%)
 
-✍️ 19,253 lines written by AI, 166 lines written by hand (99.15% AI-written)
+✍️ 22,570 lines written by AI, 278 lines written by hand (98.78% AI-written)
 
-🔤 898,395,533 Input Tokens, 5,405,544 Output Tokens
+🔤 1,062,673,733 Input Tokens, 6,331,455 Output Tokens
 
-💵 $4611.83 Estimated AI Cost This Week
+💵 $5440.17 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 609 AI Prompts
+🧠 73 AI Sessions, 682 AI Prompts
 
-Opus                     20,168 lines        █████████████████████████   100.00 % 
+Opus                     23,593 lines        █████████████████████████   98.79 % 
+Sonnet                   289 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.15% of written lines came from AI
-📚 Verbose Prompter — average 2,017 characters per prompt
+🤖 AI-Driven — 98.78% of written lines came from AI
+📚 Verbose Prompter — average 1,966 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.21% of changed lines were hand-edited
+🚀 High AI Trust — 4.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 16:06:44 UTC
+ Last Updated on 27/07/2026 19:08:35 UTC
 <!--END_SECTION:waka-->
