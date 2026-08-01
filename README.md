@@ -51,44 +51,44 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   12 hrs 48 mins      ███████████████░░░░░░░░░░   61.53 % 
-Markdown                 6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Kotlin                   11 hrs 29 mins      ████████████████░░░░░░░░░   65.63 % 
+Markdown                 5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 22 mins      ██████████████████████░░░   88.30 % 
-Android Studio           2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              15 hrs 25 mins      ██████████████████████░░░   88.02 % 
+Android Studio           2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 7 mins (96.69%)
+⏱ AI Coding Time: 16 hrs 53 mins (96.44%)
 
-✍️ 5,624 lines written by AI, 234 lines written by hand (96.01% AI-written)
+✍️ 5,360 lines written by AI, 232 lines written by hand (95.85% AI-written)
 
-🔤 385,184,700 Input Tokens, 1,802,130 Output Tokens
+🔤 293,369,781 Input Tokens, 1,483,589 Output Tokens
 
-💵 $1951.32 Estimated AI Cost This Week
+💵 $1484.28 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 160 AI Prompts
+🧠 20 AI Sessions, 144 AI Prompts
 
-Opus                     6,065 lines         ████████████████████████░   95.45 % 
-Sonnet                   289 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Opus                     5,516 lines         ████████████████████████░   95.02 % 
+Sonnet                   289 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.01% of written lines came from AI
-📚 Verbose Prompter — average 2,031 characters per prompt
+🤖 AI-Driven — 95.85% of written lines came from AI
+📚 Verbose Prompter — average 2,169 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 13.5% of changed lines were hand-edited
+🚀 High AI Trust — 14.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 16:45:25 UTC
+ Last Updated on 01/08/2026 18:49:10 UTC
 <!--END_SECTION:waka-->
