@@ -10,7 +10,7 @@ I'm Francis, an Android developer.
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,23 +51,42 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   7 mins              ████████████████████████░   96.35 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TypeScript               51 mins             ██████████████████████░░░   87.13 % 
+Kotlin                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Android Studio           7 mins              ████████████████████████░   94.19 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Claude Code              48 mins             █████████████████████░░░░   82.26 % 
+Android Studio           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 48 mins (82.61%)
+
+✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 18,841 Input Tokens, 10,033 Output Tokens
+
+💵 $12.60 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Opus                     95 lines            █████████████████████████   98.96 % 
+Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 18:19:32 UTC
+ Last Updated on 17/08/2026 20:13:45 UTC
 <!--END_SECTION:waka-->
