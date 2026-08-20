@@ -51,34 +51,30 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               57 mins             ██████████████████████░░░   88.38 % 
-Kotlin                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               57 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              52 mins             ████████████████████░░░░░   80.74 % 
-Android Studio           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Claude Code              52 mins             ███████████████████████░░   91.20 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (81.04%)
+⏱ AI Coding Time: 52 mins (91.7%)
 
 ✍️ 72 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 64,544 Input Tokens, 14,871 Output Tokens
 
-💵 $13.38 Estimated AI Cost This Week
+💵 $1.89 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 10 AI Prompts
 
-Opus                     105 lines           █████████████████████████   99.06 % 
-Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Opus                     76 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -88,5 +84,5 @@ Sonnet                   1 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/08/2026 16:20:17 UTC
+ Last Updated on 20/08/2026 18:21:15 UTC
 <!--END_SECTION:waka-->
