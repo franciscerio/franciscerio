@@ -51,38 +51,38 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               57 mins             █████████████████████████   100.00 % 
+TypeScript               6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              52 mins             ███████████████████████░░   91.20 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Claude Code              4 mins              █████████████████░░░░░░░░   66.49 % 
+VS Code                  2 mins              ████████░░░░░░░░░░░░░░░░░   33.51 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (91.7%)
+⏱ AI Coding Time: 4 mins (66.49%)
 
-✍️ 72 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 64,544 Input Tokens, 14,871 Output Tokens
+🔤 45,703 Input Tokens, 4,838 Output Tokens
 
-💵 $1.89 Estimated AI Cost This Week
+💵 $1.01 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Opus                     76 lines            █████████████████████████   100.00 % 
+Opus                     18 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 16:22:49 UTC
+ Last Updated on 24/08/2026 18:22:07 UTC
 <!--END_SECTION:waka-->
