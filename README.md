@@ -10,7 +10,7 @@ I'm Francis, an Android developer.
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,21 +51,44 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
+Markdown                 1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Kotlin                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              4 hrs 25 mins       ███████████████████████░░   91.09 % 
+Android Studio           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 28 mins (92.02%)
+
+✍️ 938 lines written by AI, 55 lines written by hand (94.46% AI-written)
+
+🔤 4,833,949 Input Tokens, 469,673 Output Tokens
+
+💵 $85.11 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 48 AI Prompts
+
+Haiku                    487 lines           ██████████░░░░░░░░░░░░░░░   38.87 % 
+Opus                     454 lines           █████████░░░░░░░░░░░░░░░░   36.23 % 
+Sonnet                   312 lines           ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.46% of written lines came from AI
+📚 Verbose Prompter — average 1,537 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 18:51:56 UTC
+ Last Updated on 29/09/2026 00:02:44 UTC
 <!--END_SECTION:waka-->
