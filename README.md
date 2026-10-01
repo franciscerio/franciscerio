@@ -51,42 +51,42 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               1 hr 25 mins        █████████████░░░░░░░░░░░░   53.30 % 
-Markdown                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Kotlin                   32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript               38 mins             ██████████░░░░░░░░░░░░░░░   40.71 % 
+Markdown                 28 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Kotlin                   24 mins             ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 14 mins       █████████████████████░░░░   83.87 % 
-Android Studio           25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Claude Code              1 hr 8 mins         ██████████████████░░░░░░░   72.44 % 
+Android Studio           25 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
 
 💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (85.54%)
+⏱ AI Coding Time: 1 hr 10 mins (75.3%)
 
-✍️ 48 lines written by AI, 55 lines written by hand (46.6% AI-written)
+✍️ 28 lines written by AI, 55 lines written by hand (33.73% AI-written)
 
-🔤 2,477,089 Input Tokens, 175,171 Output Tokens
+🔤 882,184 Input Tokens, 69,198 Output Tokens
 
-💵 $51.60 Estimated AI Cost This Week
+💵 $18.48 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 32 AI Prompts
+🧠 2 AI Sessions, 15 AI Prompts
 
-Opus                     48 lines            █████████████████████████   100.00 % 
+Opus                     28 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.6% of written lines came from AI
-📄 Detailed Prompter — average 796 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 53.4% of changed lines were hand-edited
+⚖️ Balanced with AI — 33.73% of written lines came from AI
+📄 Detailed Prompter — average 584 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 66.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 14:54:37 UTC
+ Last Updated on 01/10/2026 20:39:00 UTC
 <!--END_SECTION:waka-->
