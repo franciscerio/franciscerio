@@ -27,21 +27,21 @@ I'm Francis, an Android developer.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1159 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-🌆 Daytime                523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-🌃 Evening                236 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-🌙 Night                  2174 commits        █████████████░░░░░░░░░░░░   53.13 % 
+🌞 Morning                1160 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌆 Daytime                531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+🌃 Evening                249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌙 Night                  2197 commits        █████████████░░░░░░░░░░░░   53.11 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1125 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Tuesday                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Wednesday                1321 commits        ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Thursday                 396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Friday                   702 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Saturday                 241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Sunday                   200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Monday                   1132 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Tuesday                  119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Wednesday                1323 commits        ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Thursday                 396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Friday                   714 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Saturday                 253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Sunday                   200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 
 
@@ -51,44 +51,44 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 8 hrs 32 mins       █████████████░░░░░░░░░░░░   51.48 % 
-Text                     4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Diff                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Kotlin                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown                 7 hrs 53 mins       ███████████████░░░░░░░░░░   59.11 % 
+Text                     3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Diff                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Kotlin                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Image (svg)              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 34 mins      █████████████████████████   99.93 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              13 hrs 20 mins      █████████████████████████   99.91 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      16 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 21 mins (100.0%)
 
-✍️ 7,407 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 7,282 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 15,700,824 Input Tokens, 866,521 Output Tokens
+🔤 14,187,986 Input Tokens, 746,451 Output Tokens
 
-💵 $171.78 Estimated AI Cost This Week
+💵 $152.74 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 235 AI Prompts
+🧠 26 AI Sessions, 181 AI Prompts
 
-Opus                     7,333 lines         █████████████████████████   99.00 % 
-Sonnet                   74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Opus                     7,208 lines         █████████████████████████   98.98 % 
+Sonnet                   74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 7,382 characters per prompt
+📚 Verbose Prompter — average 7,583 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 17:46:13 UTC
+ Last Updated on 16/10/2026 20:12:00 UTC
 <!--END_SECTION:waka-->
